@@ -16,7 +16,7 @@ nur eben **für Wenige**.
 
 Diese Bewegung ist entstanden,  
 weil es keinen Sinn mehr ergibt, die Symptome zu bekämpfen  
-während das kapitalistisches System bleibt.  
+während das kapitalistische System bleibt.  
 Weil Reformen wichtig sind,  
 aber nur dann, wenn sie **nicht zum Ziel, sondern zum Weg** werden.  
 Weil wir nicht bereit sind, irgendeine Form von Unterdrückung zu tolerieren –  
