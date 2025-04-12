@@ -1,0 +1,68 @@
+html {
+	color-scheme: dark light;
+	text-rendering: optimizeLegibility;
+	min-height: 100dvh;
+}
+
+body {
+	font-family: system-ui, sans-serif;
+}
+
+::selection {
+	background: red;
+	color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-block-start: 0;
+	hyphens: auto;
+	overflow-wrap: anywhere;
+	text-wrap: balance;
+}
+
+h1 {
+	font-size: 2.5rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+h3 {
+	font-size: 1.75rem;
+}
+
+p {
+	font-size: 1.125rem;
+	margin-block: 0 1.5rem;
+	text-wrap: pretty;
+
+	&:last-of-type {
+		margin-block-end: 0;
+	}
+}
+
+[contenteditable] {
+	text-wrap: stable;
+}
+
+a {
+	color: var(--brand);
+}
+
+a:visited {
+	color: var(--brand-dark);
+}
+
+hr {
+	margin-block: 5rem;
+}
+
+h1 {
+	text-align: center;
+}
