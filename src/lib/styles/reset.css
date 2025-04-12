@@ -11,7 +11,7 @@ button:not(:disabled) {
 }
 
 ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+	margin-inline-start: 0;
+	margin-block-end: 1.5rem;
+	padding-inline-start: 1.5em;
 }

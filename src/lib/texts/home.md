@@ -23,7 +23,7 @@ Weil wir nicht bereit sind, irgendeine Form von Unterdrückung zu tolerieren –
 auch nicht die, die gerade „normal“ erscheint.
 
 Wir kämpfen nicht für Einzelanliegen.  
-Wir kämpfen für eine Welt, in der Leben zählt – nicht sein Preis.
+Wir kämpfen für eine Welt, in der Leben zählt – nicht sein Preis.  
 Wir kämpfen für **das Ende der organisierten Ausbeutung.**
 
 ---
